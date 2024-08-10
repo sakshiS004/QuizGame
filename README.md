@@ -9,6 +9,7 @@ Score Tracking: Keeps track of the player's score based on correct answers.
 Feedback: Provides immediate feedback on the player's choices.
 
 **Key Point:-**<br>
-Customizable Questions: You can add your own questions to the game. Modify the question set to tailor the quiz to different topics or difficulty levels.<br>
+Customizable Questions: You can add your own questions to the game. Modify the question set to tailor the quiz to different topics or difficulty levels.
+#<br>
 
-# Dive in and have a good time!
+ Dive in and have a good time!
