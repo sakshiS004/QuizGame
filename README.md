@@ -5,7 +5,7 @@ The Quiz Game is a fun and interactive application that tests your knowledge wit
 
 **Features:-**<br>
 Multiple Choice Questions:   The game presents a series of questions with multiple-choice answers.<br>
-Score Tracking: Keeps track of the player's score based on correct answers.
+Score Tracking: Keeps track of the player's score based on correct answers.<br>
 Feedback: Provides immediate feedback on the player's choices.
 
 **Key Point:-**<br>
